@@ -351,4 +351,4 @@ elif st.session_state.current_view == "Stats":
     st.write(f"Books unread: {stats['unread_books']}")
     st.write(f"Percentage read: {stats['percent_read']:.2f}%")
     st.markdown("---")
-st.markdown("Copyright @ 2025 Tayyaba Sheikh Personal Library Manager", unsafe_allow_html=True)
+st.markdown("Copyright @ 2025 MARIA NASEER Personal Library Manager", unsafe_allow_html=True)
